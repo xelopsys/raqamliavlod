@@ -1,0 +1,7 @@
+{
+  "name": "Raqamli avlod",
+  "short_name": "DG",
+  "description": "Raqamli avlod uchun ilova",
+  "categories": ["education", "technology"],
+  "display": "standalone"
+}
